@@ -1,6 +1,5 @@
-  # Go Ham, Burgers!
-
- ![Image](https://github.com/user-attachments/assets/8f990d02-9d94-4b2a-9e33-64117dd3eb6f)
+# <div align="center"> Go Ham, Burgers! </div>
+# <div align="center"> ![Image](https://github.com/user-attachments/assets/8f990d02-9d94-4b2a-9e33-64117dd3eb6f) </div>
 
 A competitive **online 2D platforming shooter** where you use your burger physics and abilities to dominate other burgers!
 
